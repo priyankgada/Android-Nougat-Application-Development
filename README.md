@@ -1,3 +1,7 @@
+# Funds needed .
+
+https://www.indiegogo.com/projects/free-python-and-android-n-app-course-on-youtube/x/15207963#/
+
 # Android-Nougat-Application-Development
 Android - Nougat Android Application Development - Priyank Gada
 Android - Nougat Android Application Development - This tutorial series can be found on youtube.
