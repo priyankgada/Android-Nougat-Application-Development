@@ -24,13 +24,19 @@ www.youtube.com/priyankgada
 More stuff coming soon.
 
 #Video Tutorials 
-Videos are underconstruction and will be uploaded every week
+
+Videos will be live every week . Course will be live on 1st December 2016. If you cant find the videos then please come back after few days .
+
+1. Android nougat application development - Course Introduction - https://www.youtube.com/watch?v=7hk1Dg7FFd4
+2. Android nougat application development - Android Studio - https://www.youtube.com/watch?v=dv2ipNeGEG4
 
 #Project Files !!!
 I will be uploading all the source codes and project files over here
 
 #Download Links 
-All the download links related to this course
+
+1. Android Studio - https://goo.gl/grr2Zl
+2. Android Studio ( Version which is used in the tutorial series ) - https://goo.gl/mLAs7e
 
 # Social Media :
 1. Youtube : www.youtube.com/priyankgada
