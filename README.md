@@ -1,7 +1,3 @@
-# Funds needed .
-
-https://www.indiegogo.com/projects/free-python-and-android-n-app-course-on-youtube/x/15207963#/
-
 # Android-Nougat-Application-Development
 Android - Nougat Android Application Development - Priyank Gada
 Android - Nougat Android Application Development - This tutorial series can be found on youtube.
@@ -27,10 +23,7 @@ More stuff coming soon.
 
 Course releasing on 1st Dec . 1 Video / day 
 
-1. Android nougat application development - Course Introduction - https://www.youtube.com/watch?v=7hk1Dg7FFd4
-2. Android nougat application development - Android Studio - https://www.youtube.com/watch?v=dv2ipNeGEG4
-3. Android nougat application development - SDK Manager - https://www.youtube.com/watch?v=OONjVUjHPLU
-4. Android nougat application development - Android Studio Basics ( part 1 ) - https://www.youtube.com/watch?v=L0PW2lQJ1x8
+1. Android nougat application development - Installing Android Studio - https://www.youtube.com/watch?v=QaHr-LKCvNE
 
 #Project Files !!!
 I will be uploading all the source codes and project files over here
