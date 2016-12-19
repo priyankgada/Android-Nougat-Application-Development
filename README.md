@@ -23,8 +23,9 @@ More stuff coming soon.
 
 Course releasing on 1st Dec . 1 Video / day 
 
-1. Android nougat application development - Installing Android Studio - https://www.youtube.com/watch?v=QaHr-LKCvNE
-2. Android Nougat Application Development - First Android Project - https://www.youtube.com/watch?v=bCslsEvtzn8
+1. Android nougat Application development - Installing Android Studio - https://goo.gl/GkX2XW
+2. Android Nougat Application Development - First Android Project - https://goo.gl/GkX2XW
+3. Android Nougat Application Development - Android Studio - https://goo.gl/GkX2XW
 
 #Project Files !!
 
