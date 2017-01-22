@@ -5,6 +5,30 @@ Android - Nougat Android Application Development - This tutorial series can be f
 This series contains latest android nougat applicaiton development from basics . It is a noob friendly course . 
 www.youtube.com/priyankgada
 
+
+#Video Tutorials 
+
+1. Android nougat Application development - Installing Android Studio - https://goo.gl/GkX2XW
+2. Android Nougat Application Development - First Android Project - https://goo.gl/GkX2XW
+3. Android Nougat Application Development - Android Studio - https://goo.gl/GkX2XW
+4. Android Nougat Application Development - Text View - 
+5. Android Nougat Application Development - Text View Challenge 1 - 
+6. Android Nougat Application Development - Buttons - 
+
+#Project Files !!
+
+1. Hello World - https://goo.gl/QrJl0I
+2. Text View - https://goo.gl/QrJl0I
+
+#Challenges !!!
+
+1. Text View Challenge 1 - https://goo.gl/JD1nS7
+
+#Download Links 
+
+1. Android Studio - https://goo.gl/grr2Zl
+2. Android Studio ( Version which is used in the tutorial series ) - https://goo.gl/mLAs7e
+
 #To Do List
 1. Android N - Introduction
 2. Android N - Installing Android Studio
@@ -18,23 +42,6 @@ www.youtube.com/priyankgada
 10. Android N - Spy / Tspy Clone Application Series
 
 More stuff coming soon.
-
-#Video Tutorials 
-
-Course releasing on 1st Dec . 1 Video / day 
-
-1. Android nougat Application development - Installing Android Studio - https://goo.gl/GkX2XW
-2. Android Nougat Application Development - First Android Project - https://goo.gl/GkX2XW
-3. Android Nougat Application Development - Android Studio - https://goo.gl/GkX2XW
-
-#Project Files !!
-
-1. Hello World - https://github.com/priyankgada/Android-Nougat-Application-Development/blob/master/1.%20Hello%20World.zip
-
-#Download Links 
-
-1. Android Studio - https://goo.gl/grr2Zl
-2. Android Studio ( Version which is used in the tutorial series ) - https://goo.gl/mLAs7e
 
 # Social Media :
 1. Youtube : www.youtube.com/priyankgada
