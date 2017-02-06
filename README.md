@@ -8,17 +8,18 @@ www.youtube.com/priyankgada
 
 #Video Tutorials 
 
-1. Android nougat Application development - Installing Android Studio - https://goo.gl/GkX2XW
-2. Android Nougat Application Development - First Android Project - https://goo.gl/GkX2XW
-3. Android Nougat Application Development - Android Studio - https://goo.gl/GkX2XW
-4. Android Nougat Application Development - Text View - 
-5. Android Nougat Application Development - Text View Challenge 1 - 
-6. Android Nougat Application Development - Buttons - 
+1. Android nougat Application development - Installing Android Studio - https://goo.gl/cPCHyQ
+2. Android Nougat Application Development - First Android Project - https://goo.gl/cPCHyQ
+3. Android Nougat Application Development - Android Studio - https://goo.gl/cPCHyQ
+4. Android Nougat Application Development - Text View - https://goo.gl/cPCHyQ
+5. Android Nougat Application Development - Text View Challenge 1 - https://goo.gl/cPCHyQ
+6. Android Nougat Application Development - Buttons - https://goo.gl/cPCHyQ
 
 #Project Files !!
 
 1. Hello World - https://goo.gl/QrJl0I
 2. Text View - https://goo.gl/QrJl0I
+2. Buttons - https://goo.gl/QrJl0I
 
 #Challenges !!!
 
